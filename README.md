@@ -72,4 +72,4 @@ If you experience environment issues with Python or the graphical interface, you
 4. *Engineering Highlight:* You can clearly demonstrate the Edge Filter in action here by recording the screen, showing how the graph goes from having false, noisy spikes to being totally stable once the C++ filter is applied!
 
 ## 🤝 Connect
-Created by Jaime Sanandrés. Check out the demonstration video and a deep dive into the Edge Filtering algorithm on my [LinkedIn Profile](https://www.linkedin.com/in/jaime-sanandr%C3%A9s-aa6b93308/?locale=en-US)!
+Created by Jaime Sanandrés. Check out the demonstration video and a deep dive into the Edge Filtering algorithm on my [LinkedIn](https://www.linkedin.com/in/jaime-sanandr%C3%A9s-aa6b93308/?locale=en-US)!

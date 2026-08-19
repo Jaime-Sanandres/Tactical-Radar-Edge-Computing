@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-Pygame-yellow)
 ![C++](https://img.shields.io/badge/C%2B%2B-Edge_Computing-purple)
 
-<img width="800" height="1422" alt="radar_demo" src="https://github.com/user-attachments/assets/be1a90bb-fe6e-46f3-aba0-e650f7b1c1de" />
+<img width="200" height="355.5" alt="radar_demo" src="https://github.com/user-attachments/assets/be1a90bb-fe6e-46f3-aba0-e650f7b1c1de" />
 
 
 

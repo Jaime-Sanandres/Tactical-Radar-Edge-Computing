@@ -5,10 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-Pygame-yellow)
 ![C++](https://img.shields.io/badge/C%2B%2B-Edge_Computing-purple)
 
-<img width="200" height="355.5" alt="radar_demo" src="https://github.com/user-attachments/assets/be1a90bb-fe6e-46f3-aba0-e650f7b1c1de" />
-
-
-
+<img width="270" alt="radar_hardware_demo" src="https://github.com/user-attachments/assets/6266ad6e-560a-4f3e-b63c-91e57fddb0d4" /> <img width="270" alt="radar_ui_edge_filtering" src="https://github.com/user-attachments/assets/75eddea2-d1fa-4b88-885d-9279129de0af" />
 
 An active hardware-software radar scanner that maps its physical surroundings in real-time. This project uses an ultrasonic sensor mounted on a servomotor to sweep the environment, applies an **Edge Computing noise filter in C++** directly on the microcontroller to clean the data, and streams it via serial to a Python-based tactical UI.
 
